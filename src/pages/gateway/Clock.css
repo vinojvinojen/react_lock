@@ -1,0 +1,60 @@
+ .wall-clock {
+    text-align: center;
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+   
+    min-width: 50%;
+  }
+  
+  .wall-clock h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .settings {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    margin: 20px;
+  }
+  
+  .setting {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .setting label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .setting input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100px;
+    margin: 5px 0;
+  }
+  
+  .wall-clock button {
+    padding: 10px 20px;
+    background-color: #458a8c;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .wall-clock p {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+
+  .field{
+    padding:1vh;
+    width: 40%;
+  } 

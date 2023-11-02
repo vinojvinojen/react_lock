@@ -1,0 +1,79 @@
+{
+    "APIGateways": [
+        {
+            "MACAddress": "00204AF8CD66",
+            "IpAddress": "172.16.200.149",
+            "Password": "222222",
+            "RFChannel": 49,
+            "RFGroup": 1,
+            "GroupNoDisplay": 55,
+            "SyncWordLower": 224,
+            "SyncWordUpper": 191,
+            "FirmwareVersion": "5.48",
+            "DHCP": 0,
+            "DHCPname": null,
+            "SubnetMask": null,
+            "NetGatewayIP": null,
+            "Repeaters": [],
+            "Locks": [
+                {
+                    "LockId": "298d38ee",
+                    "GatewayMACAddress": "00204AF8CD66",
+                    "LockAssigned": 1,
+                    "LockAddress": 1,
+                    "RawRssi": 70.5,
+                    "RawReceivedRssi": 69.5,
+                    "LockType": 128,
+                    "LockStatus": 0,
+                    "LockRFAddress": 231,
+                    "FirmwareMajor": 4,
+                    "FirmwareMinor": 42
+                }
+            ]
+        },
+        {
+            "MACAddress": "00204AFA887F",
+            "IpAddress": "172.16.200.181",
+            "Password": "222222",
+            "RFChannel": 44,
+            "RFGroup": 1,
+            "GroupNoDisplay": 30,
+            "SyncWordLower": 73,
+            "SyncWordUpper": 90,
+            "FirmwareVersion": "5.48",
+            "DHCP": 0,
+            "DHCPname": null,
+            "SubnetMask": null,
+            "NetGatewayIP": null,
+            "Repeaters": [],
+            "Locks": [
+                {
+                    "LockId": "lock1",
+                    "GatewayMACAddress": "00204AFA887F",
+                    "LockAssigned": 1,
+                    "LockAddress": 1,
+                    "RawRssi": 70.5,
+                    "RawReceivedRssi": 69.5,
+                    "LockType": 128,
+                    "LockStatus": 0,
+                    "LockRFAddress": 231,
+                    "FirmwareMajor": 4,
+                    "FirmwareMinor": 42
+                },
+                {
+                    "LockId": "lock2",
+                    "GatewayMACAddress": "00204AFA887F",
+                    "LockAssigned": 1,
+                    "LockAddress": 1,
+                    "RawRssi": 70.5,
+                    "RawReceivedRssi": 69.5,
+                    "LockType": 128,
+                    "LockStatus": 0,
+                    "LockRFAddress": 231,
+                    "FirmwareMajor": 4,
+                    "FirmwareMinor": 42
+                }
+            ]
+        }
+    ]
+}
