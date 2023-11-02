@@ -11,14 +11,17 @@ const App = () => {
   
   return (
 
-    <BrowserRouter>
-      <Routes>
-      <Route path='/' element={<Login />} /> Add a new login route
+    // <BrowserRouter>
+    //   <Routes>
+    //   <Route path='/' element={<Login />} /> Add a new login route
 
-        <Route path='/dashboard' element={<Dashboard />}>
-        </Route>
-      </Routes>
-    </BrowserRouter>
+    //     <Route path='/dashboard' element={<Dashboard />}>
+    //     </Route>
+    //   </Routes>
+    // </BrowserRouter>
+    <>
+    <h1>fvfvsfvs</h1>
+    </>
   );
 }
 
