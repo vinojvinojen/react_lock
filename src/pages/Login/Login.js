@@ -55,7 +55,7 @@ const Login = () => {
     // }
 
     console.log(username);
-              navigation("/dashboard")
+              navigation("/react_lock/dashboard")
 
   };
 

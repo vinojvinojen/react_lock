@@ -13,9 +13,9 @@ const App = () => {
 
     <BrowserRouter>
       <Routes>
-      <Route path='/' element={<Login />} /> Add a new login route
+      <Route path='/react_lock' element={<Login />} /> Add a new login route
 
-        {/* <Route path='/dashboard' element={<Dashboard />}/> */}
+        <Route path='/react_lock/dashboard' element={<Dashboard />}/>
       </Routes>
     </BrowserRouter>
   );
